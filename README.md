@@ -1,6 +1,8 @@
 # Atipicidades
 
+## Project idealization
 
+Depelopin of a new feature from Centro Palmares to make easier consults and register centers, professionals and users. The ideia is make these process more easier.
 
 ## Getting started
 
